@@ -1,3 +1,0 @@
-[submodule "modules/externalSub"]
-	path = modules/externalSub
-	url = https://github.com/barissmutluu/testExternal.git

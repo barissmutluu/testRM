@@ -1,4 +1,0 @@
-[submodule "Native"]
-	path = Native
-	url = https://github.com/barissmutluu/testExternal.git
-	branch = externalRM
